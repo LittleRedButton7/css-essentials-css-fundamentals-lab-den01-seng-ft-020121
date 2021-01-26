@@ -31,7 +31,12 @@ figcaption {
   text-align: center;
   }
 
-  
+.blocktext {
+    width = 800px
+    margin-left: auto;
+    margin-right: auto;
+    
+}  
 
 #details > div {
   float: left;
